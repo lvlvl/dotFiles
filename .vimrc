@@ -174,3 +174,7 @@ set nofoldenable
 " cd ~/.vim/bundle
 " git clone https://github.com/magicalbanana/vim-sql-syntax
 
+" NERDTree plugin
+" cd ~/.vim/bundle
+" git clone https://github.com/scrooloose/nerdtree
+map <C-n> :NERDTreeToggle<CR>
